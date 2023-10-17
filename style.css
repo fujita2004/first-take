@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+#head{
+    margin-left: 27%;
+}
+
+body {
+    background-color: aqua;
+}
+
+img {
+    float: left;
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 15px;
+}
+
+.sikaku{
+    margin-top: 60px;
+    clear: left;
+}
+/* 
+.a {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+} 真ん中にする方法らしい*/
+
+.a {
+    margin-left: 30%;
+}
+
+p{
+    font-size: 20px;
+}
+
